@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">game</string>
+    <string name="welcome">Welcome</string>
+    <string name="splash">Tic-Tac-Toe</string>
+    <string name="todo">TODO</string>
+    <string name="reset">Reset</string>
+    <string name="Reset">Reset</string>
+</resources>
